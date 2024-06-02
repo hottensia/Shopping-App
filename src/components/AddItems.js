@@ -23,7 +23,7 @@ function Items(){
         prize:prize
       }),
     });
-     alert("added successfully")
+     alert("item added successfully")
   }
 
 
