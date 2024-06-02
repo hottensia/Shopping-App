@@ -3,10 +3,8 @@ import Items from "./Items";
 
 function App() {
     return (
-      <div className="ui raised segment">
-        <div className="ui segment violet inverted">
-          <h2>Shopping App</h2>
-        </div>
+      <div className="App">
+          <h1>Shopping App</h1>
         <Items />
       </div>
     );
